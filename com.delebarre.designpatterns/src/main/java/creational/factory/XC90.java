@@ -1,4 +1,4 @@
-package designpatterns.creational.factory;
+package creational.factory;
 
 public class XC90 extends Car{
 

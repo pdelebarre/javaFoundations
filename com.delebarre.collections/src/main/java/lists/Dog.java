@@ -1,4 +1,4 @@
-package collections.lists;
+package lists;
 
 public class Dog implements Animal{
     @Override

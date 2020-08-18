@@ -1,4 +1,4 @@
-package collections.lists;
+package lists;
 
 import java.util.*;
 import java.util.stream.Stream;

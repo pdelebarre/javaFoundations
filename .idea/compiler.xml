@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="javaFoundations" />
+        <module name="com.delebarre.collections" />
+        <module name="com.delebarre.designpatterns" />
       </profile>
     </annotationProcessing>
   </component>

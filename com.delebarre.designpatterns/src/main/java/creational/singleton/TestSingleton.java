@@ -1,6 +1,4 @@
-package designpatterns.creational.singleton;
-
-import designpatterns.creational.singleton.Singleton;
+package creational.singleton;
 
 public class TestSingleton {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package designpatterns.creational.factory;
+package creational.factory;
 
  abstract class Car {
      protected double price;

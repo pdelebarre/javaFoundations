@@ -1,4 +1,4 @@
-package designpatterns.creational.factory;
+package creational.factory;
 
 public class CarFactory {
     public Car getCar(String model) {

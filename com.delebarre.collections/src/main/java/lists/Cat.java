@@ -1,4 +1,4 @@
-package collections.lists;
+package lists;
 
 public class Cat implements Animal{
     @Override
